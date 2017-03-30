@@ -16,7 +16,7 @@ public class Configutarion {
     @RequestMapping("/")
     @ResponseBody
     public String welcome(){
-        return "<h1>Olá. Bem-vindo ao sistema Lista VIP</h1>";
+        return "<h1>Olá.<br/>Bem-vindo ao sistema Lista VIP</h1>";
     }
 
     public static void main(String[] args){
