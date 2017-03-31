@@ -226,3 +226,4 @@ target/classes/templates/index.html
 target/classes/templates/invitedlist.html
 .idea/.name
 listavip.iml
+.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_1_3_6_RELEASE.xml
