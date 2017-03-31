@@ -224,3 +224,5 @@ target/classes/static/bootstrap/js/npm.js
 target/classes/templates/index.html
 
 target/classes/templates/invitedlist.html
+.idea/.name
+listavip.iml
